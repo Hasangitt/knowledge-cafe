@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "cover_image": "https://i.ibb.co.com/cvk6WzH/1.jpg",
+      "author_name": "Alice Johnson",
+      "author_image": "https://i.ibb.co.com/NmnNrjg/boy1.png",
+      "title": "Understanding the Basics of JavaScript",
+      "reading_time": 6,
+      "post_date": "2024-09-12",
+      "hashtags": ["#JavaScript", "#WebDevelopment", "#Programming"]
+    },
+    {
+      "id": 2,
+      "cover_image": "https://i.ibb.co.com/jbkjYQB/2.png",
+      "author_name": "Bob Smith",
+      "author_image": "https://i.ibb.co.com/KwDV4q5/boy2.jpg",
+      "title": "Mastering CSS Layouts: Grid and Flexbox",
+      "reading_time": 10,
+      "post_date": "2024-08-30",
+      "hashtags": ["#CSS", "#WebDesign", "#Frontend"]
+    },
+    {
+      "id": 3,
+      "cover_image": "https://i.ibb.co.com/W5w54bJ/3.png",
+      "author_name": "Catherine Lee",
+      "author_image": "https://i.ibb.co.com/MZM3K1S/girl1.jpg",
+      "title": "Deep Dive into React and State Management",
+      "reading_time": 15,
+      "post_date": "2024-07-25",
+      "hashtags": ["#React", "#JavaScript", "#WebDevelopment"]
+    },
+    {
+      "id": 4,
+      "cover_image": "https://i.ibb.co.com/9WfPPvc/4.jpg",
+      "author_name": "David Kim",
+      "author_image": "https://i.ibb.co.com/5szKQhM/girl2.jpg",
+      "title": "Building Scalable Backend Systems with Node.js",
+      "reading_time": 12,
+      "post_date": "2024-06-15",
+      "hashtags": ["#NodeJS", "#Backend", "#WebDevelopment"]
+    }
+  ]
