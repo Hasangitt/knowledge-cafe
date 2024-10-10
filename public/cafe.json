@@ -7,7 +7,11 @@
       "title": "Understanding the Basics of JavaScript",
       "reading_time": 6,
       "post_date": "2024-09-12",
-      "hashtags": ["#JavaScript", "#WebDevelopment", "#Programming"]
+      "hashtags": [
+        "#JavaScript",
+        "#WebDevelopment",
+        "#Programming"
+      ]
     },
     {
       "id": 2,
@@ -17,7 +21,11 @@
       "title": "Mastering CSS Layouts: Grid and Flexbox",
       "reading_time": 10,
       "post_date": "2024-08-30",
-      "hashtags": ["#CSS", "#WebDesign", "#Frontend"]
+      "hashtags": [
+        "#CSS",
+        "#WebDesign", 
+        "#Frontend"
+        ]
     },
     {
       "id": 3,
@@ -27,7 +35,11 @@
       "title": "Deep Dive into React and State Management",
       "reading_time": 15,
       "post_date": "2024-07-25",
-      "hashtags": ["#React", "#JavaScript", "#WebDevelopment"]
+      "hashtags": [
+        "#React", 
+        "#JavaScript", 
+        "#WebDevelopment"
+      ]
     },
     {
       "id": 4,
@@ -37,6 +49,10 @@
       "title": "Building Scalable Backend Systems with Node.js",
       "reading_time": 12,
       "post_date": "2024-06-15",
-      "hashtags": ["#NodeJS", "#Backend", "#WebDevelopment"]
+      "hashtags": [
+        "#NodeJS", 
+        "#Backend",
+         "#WebDevelopment"
+        ]
     }
   ]
