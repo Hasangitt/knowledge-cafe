@@ -1,8 +1,8 @@
-import PropTypes from "prop-types";
+
 import { CiBookmarkPlus } from "react-icons/ci";
 
-const Blog = ({blog, hadleAddtoBookmark}) => {
-    const {title, cover_image, author_name, author_image, post_date, reading_time, hashtags} = blog;
+const Blog = ({blog, hadleAddtoBookmark, handleReadingTime}) => {
+    const {id, title, cover_image,  author_name, author_image, post_date, reading_time, hashtags} = blog;
     return (
         <div>
             <img className="w-full" src={cover_image} alt={`cover picture of the title${title}`} />
@@ -24,6 +24,11 @@ const Blog = ({blog, hadleAddtoBookmark}) => {
             </div>
             <h2 className="text-4xl mb-5">{title}</h2>
             {hashtags.map((hash, idx) => <span key={idx}><a href=""> {hash} </a></span>)}
+            <div>
+            <button className="text-red-500 underline font-bold mb-10 mt-5"
+            onClick={()=>handleReadingTime(reading_time, id)}
+            >Mark As Read</button>
+            </div>
         </div>
     );
 };
